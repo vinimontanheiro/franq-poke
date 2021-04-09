@@ -40,9 +40,9 @@ $ yarn run android
 ```
 
 ### Link remoto da APK
-![APK](https://drive.google.com/file/d/11zom2HaA10D_nlCzOAu-Lj8FeFJVNc-y/view?usp=sharing)
+[APK](https://drive.google.com/file/d/11zom2HaA10D_nlCzOAu-Lj8FeFJVNc-y/view?usp=sharing)
 
 ### Link vídeo do APP rodando em release
-![APP Vídeo](https://drive.google.com/file/d/1C88vtyOdkMP0pgycradkrZOwfGibja_x/view?usp=sharing)
+[APP Vídeo](https://drive.google.com/file/d/1C88vtyOdkMP0pgycradkrZOwfGibja_x/view?usp=sharing)
 
 
