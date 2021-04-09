@@ -1,0 +1,51 @@
+{
+  "action":{
+    "search": "Buscar",
+    "close" : "Fechar",
+    "clear": "Limpar",
+    "register": "Cadastrar"
+  },
+  "sign":{
+    "name": "Nome",
+    "email": "E-mail",
+    "password": "Senha",
+    "login": "Entrar" ,
+    "sign_in_with_google": "Iniciar Sessão com o Google",
+    "passwordConfirmation": "Confirmação de senha",
+    "has_no_account": "Ainda não possui uma conta?",
+    "sign_up": "Cadastre-se",
+    "verification_email_sent": "Enviamos um link de verificação para o seu e-mail"
+  },
+  "header":{
+    "hello": "Olá",
+    "pokemon_not_found": "Nenhum Pokémon encontrado"
+  },
+  "pokemon":{
+    "pokemon_not_found": "Nenhum Pokémon encontrado",
+    "ability": "Habilidade",
+    "type": "Tipo",
+    "name": "Nome"
+  },
+  "error":{
+    "required_password" : "Informe o password",
+    "account_not_found": "Não existe conta associada a este e-mail",
+    "wrong_password": "Senha inválida",
+    "unauthorized_user": "Usuário não autorizado!",
+    "network_error": "Sem conexão com a internet!",
+    "something_went_wrong": "Ops! Algo deu errado, tente novamente mais tarde.",
+    "password_shoud_be_equeal_or_more_than_eight": "A senha deve ter no mínimo oito caracteres, entre letras e números.",
+    "required_field": "Campo obrigatório",
+    "invalid_email": "E-mail inválido",
+    "email_already_exists": "E-mail já cadastrado.",
+    "auth_email_already_in_use": "O e-mail informado já está sendo utilizado!",
+    "auth_wrong_password": "Usuário ou senha inválidos!",
+    "auth_user_not_found":"Usuário não encontrado",
+    "passwords_must_match":"As senhas devem ser iguais",
+    "auth_too_many_requests": "Usuário não autorizado!",
+    "your_account_is_disabled": "Sua conta está desativada",
+    "informed_user_not_found":"Não existe nenhuma conta associada a este e-mail",
+    "please_verify_your_account":"Por favor, verifique a sua conta clicando em um link que enviamos para o seu e-mail.",
+    "its_not_possible_to_get_pokemon_list": "Não foi possível obter a lista de Pokémons.",
+    "its_not_possible_to_get_a_pokemon": "Não foi possível visualizar o Pokémon"
+    }
+}

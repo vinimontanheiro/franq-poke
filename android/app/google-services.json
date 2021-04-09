@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1025003450350",
+    "project_id": "franq-app",
+    "storage_bucket": "franq-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025003450350:android:68bac264bfdea62ac868ff",
+        "android_client_info": {
+          "package_name": "br.com.franq.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1025003450350-5r1pt0m347fr5m6svgdfmq37p87toag8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.franq.app",
+            "certificate_hash": "1857e830ba13e450819db9066cde06a502b5789e"
+          }
+        },
+        {
+          "client_id": "1025003450350-fdrj32ui339a6ahm1nnh1q3797en02ee.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6tOpyuMRH2drFv-QmDWSUsjsS4N047PU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1025003450350-fdrj32ui339a6ahm1nnh1q3797en02ee.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
