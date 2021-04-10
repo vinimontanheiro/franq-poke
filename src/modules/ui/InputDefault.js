@@ -32,7 +32,7 @@ const styles = StyleSheet.create({
 const InputDefault = ({groupStyle, label, errors, errorColor, ...rest}) => {
   return (
     <View style={[styles.group, groupStyle]}>
-      <TextInput style={styles.input} {...rest} />
+      <TextInput style={styles.input} placeholderTextColor={theme.colors.grayDark} {...rest} />
       <InputErrorMessage error={errors[label]} color={errorColor} />
     </View>
   );
