@@ -1,5 +1,5 @@
 
-## Aplicativo React Native utilizando hooks, i18n, redux, launcher icons, splashscreen, login padrão, login com o Google e a tela de login com implementação de um exemplo de styled components
+## Aplicativo React Native utilizando hooks, i18n, redux, launcher icons, splashscreen, firebase, login padrão, login com o Google e a tela de login com implementação de um exemplo com styled components
 
 ## Dependências:
 
